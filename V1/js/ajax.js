@@ -84,7 +84,7 @@ window.onload = function(){
 
 				}, 10);
 
-				}, 400);
+				}, 300);
 
 				// aviso mensagem enviada
 				setTimeout(function(){
